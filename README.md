@@ -174,11 +174,10 @@ hdfs dfs -getmerge /user/hadoop/spotify/output/ /home/hadoop/spotify_output.txt
 
 ## 7. References
 
-- [Hadoop Official Documentation](https://hadoop.apache.org/docs/)
-- [Kaggle Spotify Dataset](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets)
+- [Kaggle Spotify Dataset](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=artists.csv)
 
 ## 8. Contact
 
-For any issues, contact [Your Name] at [Your Email].
-
-**End of README**
+EG/2020/3797 - Aberuwan R. M. M. P.
+EG/2020/4190 - Sandamal I.M.K.
+EG/2020/4219 - Siriwardhana T.D.R.D.
